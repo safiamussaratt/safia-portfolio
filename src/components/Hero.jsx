@@ -20,8 +20,7 @@ export default function Hero() {
           <span className="line2">Mussarat</span>
         </h1>
         <p className="hero-desc">
-          Building data-driven applications that solve real-world problems — from urban heat
-          analysis with satellite data to NGO discovery platforms.
+          CS student who loves building. From data pipelines to polished interfaces — I make ideas work.
         </p>
         <div className="hero-btns">
           <a href="#projects" className="btn-primary">View My Work →</a>
