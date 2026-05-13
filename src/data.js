@@ -51,7 +51,7 @@ export const projects = [
   {
     id: 8,
     name: 'Sleeping Barber Problem Simulator',
-    stack: 'C++ · Multithreading · Mutexes · Semaphores · Condition Variables',
+    stack: 'C · Multithreading · Mutexes · Semaphores · Condition Variables',
     desc: 'An advanced multi-threaded simulation of the classic Sleeping Barber problem with priority customers, real-time visualization, and comprehensive logging.',
     github: 'https://github.com/safiamussaratt/Sleeping-Barber-Problem-Simulator', 
   },
